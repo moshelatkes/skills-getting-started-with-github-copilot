@@ -172,6 +172,8 @@ footer {
   padding: 7px 8px;
   border-radius: 6px;
   background: #f2f4ff;
+  list-style: none;
+  list-style-type: none;
 }
 
 .participant-email {
